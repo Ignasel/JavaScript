@@ -1,0 +1,15 @@
+*{
+    text-align: center;
+}
+
+.container{
+    width: 100%;
+    height: 400px;
+    background-color: tomato;
+}
+
+div{
+    display: inline-block;
+    height: 100px;
+    width: 25%;
+}
