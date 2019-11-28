@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f4e0034b-31c5-4e41-9b44-9ccbb837b983" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AjaxUzd.js" beforeDir="false" afterPath="$PROJECT_DIR$/AjaxUzd.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/indexAjaxUzd.html" beforeDir="false" afterPath="$PROJECT_DIR$/indexAjaxUzd.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -42,7 +40,7 @@
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -71,6 +69,7 @@
       <workItem from="1574330944221" duration="3000" />
       <workItem from="1574763444796" duration="9893000" />
       <workItem from="1574798668585" duration="3492000" />
+      <workItem from="1574927545227" duration="756000" />
     </task>
     <servers />
   </component>

@@ -10,25 +10,20 @@ xhr.onreadystatechange = function() {
             const mokinys = document.createElement("h5")
 
             mokinys.textContent = rows.vardas;
+            console.log(rows.lokacija)
 
-            mokinys.classList.add("badge", "badge-pill");
-            mokinys.classList.add("badge-success");
-            mokinys.textContent = 'Yra';
+            color.classList.add("badge", "badge-pill");
+            color.classList.add("badge-success");
+            color.textContent = 'Yra';
 
-            if (!mokinys.location) {
-                mokinys.classList.remove("badge-success");
-                mokinys.classList.add("badge-danger");
-                mokinys.textContent = 'Nėra';
+            if (!rows.lokacija) {
+                color.classList.remove("badge-success");
+                color.classList.add("badge-danger");
+                color.textContent = 'Nėra';
             }
 
             mokiniai.appendChild(color);
             mokiniai.appendChild(mokinys);
-
-
-
-
-
-
 
         }
             // if (info == "lokacija"){
