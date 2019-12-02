@@ -29,11 +29,19 @@
     display: none;
 }
 
-i{
-    height: 20px;
-    width: 20px;
-    color: black;
 
+.divCheck i{
+    padding: 12px;
+    background: #28a745;
+    border-radius: 50%;
+}
+
+.divPriority{
+    color: white;
+    text-align: center;
+    border-radius: 40%;
+    padding: 7px;
+    background-color: cornflowerblue;
 }
 
 .row{

@@ -3,7 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="f4e0034b-31c5-4e41-9b44-9ccbb837b983" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AjaxUzd.js" beforeDir="false" afterPath="$PROJECT_DIR$/AjaxUzd.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/indexDid.html" beforeDir="false" afterPath="$PROJECT_DIR$/indexDid.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mainDid.js" beforeDir="false" afterPath="$PROJECT_DIR$/mainDid.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styleDid.css" beforeDir="false" afterPath="$PROJECT_DIR$/styleDid.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -40,7 +42,7 @@
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -69,7 +71,10 @@
       <workItem from="1574330944221" duration="3000" />
       <workItem from="1574763444796" duration="9893000" />
       <workItem from="1574798668585" duration="3492000" />
-      <workItem from="1574927545227" duration="756000" />
+      <workItem from="1574927545227" duration="1094000" />
+      <workItem from="1575126572406" duration="603000" />
+      <workItem from="1575128987362" duration="21134000" />
+      <workItem from="1575267448332" duration="4981000" />
     </task>
     <servers />
   </component>
