@@ -35,6 +35,9 @@
     background: #28a745;
     border-radius: 50%;
 }
+.divSubject i{
+    color: #b3b7bb;
+}
 
 .divPriority{
     color: white;
